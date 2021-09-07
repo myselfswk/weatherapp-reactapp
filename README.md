@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Details about Project:
+Enter your City and Country Name to Get the Results...
+
 ## Available Scripts
 
 In the project directory, you can run:
